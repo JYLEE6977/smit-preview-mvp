@@ -1,0 +1,8 @@
+.tools/
+node_modules/
+.git/
+.env
+.env.*
+supabase/
+MVP.md
+진행기록.md
