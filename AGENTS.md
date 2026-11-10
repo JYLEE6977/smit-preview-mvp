@@ -2,6 +2,7 @@
 
 - Before changing UI, read `docs/design-system.md`, `docs/design-reference.md`, `MVP.md`, and `README.md`.
 - Use `docs/design-system.md` as the adopted SMIT UI rules. Separate source observations, adopted decisions, browser-verified results, and unverified items in reports.
+- Follow the current full-image landing rules in that document: school photography and SMIT red take priority over reference-site branding. Preserve the light, readable experience and signup screens and do not copy third-party assets or parallax implementations.
 - Keep the static single-file `index.html` architecture and the English product UI. Keep Korean documentation readable; use word-based Korean wrapping if Korean content is added.
 - Preserve SMIT red branding and the provenance of official school photographs. Never present sample classes or schedules as confirmed offerings.
 - Preserve class feedback, editable weekly plans, and the Supabase interest form. Only a publishable key may appear in browser code. Do not introduce read, update, or delete access to applications.
